@@ -8,7 +8,7 @@ This mutual fund analysis project focuses on identifying top 30 schemes with hig
 
 ---
 
-## 🧠 Project Goal
+## Project Goal
 
 To identify **top-performing, low-risk mutual fund schemes** using data-driven techniques and present insights through a dynamic, professional Power BI dashboard.
 
