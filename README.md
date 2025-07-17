@@ -17,7 +17,7 @@ To identify **top-performing, low-risk mutual fund schemes** using data-driven t
 ## Python-Based Fund Analysis
 
 I started by importing and exploring a dataset of over 2500 mutual fund schemes.  
-🔗 [Python Script](https://github.com/niravtrivedi23/Mutual-Fund-Analysis/commit/851d5bb1928e3c85b1f22495efb141ed287bf943)
+[Python Script](https://github.com/niravtrivedi23/Mutual-Fund-Analysis/commit/851d5bb1928e3c85b1f22495efb141ed287bf943)
 
 ### 1. Data Cleaning
 - Removed unnecessary columns
