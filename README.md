@@ -48,7 +48,7 @@ Extracted the **Top 30 Mutual Funds** with best return-low risk balance
 ## Power BI Dashboard – Mutual Fund Insights
 
 After processing the data using Python and Excel, I built an **interactive dashboard** in Power BI.  
-🔗 [Power BI Dashboard File (.pbix)](https://github.com/niravtrivedi23/Mutual-Fund-Analysis/blob/main/Mutual%20Fund%20Dashboard.pbix)  
+[Power BI Dashboard File (.pbix)](https://github.com/niravtrivedi23/Mutual-Fund-Analysis/blob/main/Mutual%20Fund%20Dashboard.pbix)  
 🔗 [Dashboard Preview Image](https://github.com/niravtrivedi23/Mutual-Fund-Analysis/blob/main/Mutual%20Fund%20Dashboard%20.png)
 
 ### 📌 Key Features
