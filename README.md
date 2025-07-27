@@ -51,7 +51,7 @@ After processing the data using Python and Excel, I built an **interactive dashb
 [Power BI Dashboard File (.pbix)](https://github.com/niravtrivedi23/Mutual-Fund-Analysis/blob/main/Mutual%20Fund%20Dashboard.pbix)  
 [Dashboard Preview Image](https://github.com/niravtrivedi23/Mutual-Fund-Analysis/blob/main/Mutual%20Fund%20Dashboard%20.png)
 
-### 📌 Key Features
+### Key Features
 
 #### 📅 Dynamic Filters
 - Filter by Fund Type, Category, Sub-category, AMC Name, Risk Level, Fund Rating
