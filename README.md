@@ -53,7 +53,7 @@ After processing the data using Python and Excel, I built an **interactive dashb
 
 ### Key Features
 
-#### 📅 Dynamic Filters
+#### Dynamic Filters
 - Filter by Fund Type, Category, Sub-category, AMC Name, Risk Level, Fund Rating
 
 #### 📊 Key Visuals & KPIs
