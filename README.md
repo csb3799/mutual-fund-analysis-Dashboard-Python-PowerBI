@@ -56,7 +56,7 @@ After processing the data using Python and Excel, I built an **interactive dashb
 #### Dynamic Filters
 - Filter by Fund Type, Category, Sub-category, AMC Name, Risk Level, Fund Rating
 
-#### 📊 Key Visuals & KPIs
+#### Key Visuals & KPIs
 - 💼 **Total Investment by Fund Type:** AUM across Equity, Debt, Hybrid, etc.  
 - 🔁 **SIP vs Lumpsum Summary Cards:** Monthly SIP trends and minimum lump sum amounts  
 - 🧾 **Expense Ratio Comparison:** By Investment Strategy and Sub-Category  
