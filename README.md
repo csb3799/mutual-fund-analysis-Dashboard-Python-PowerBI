@@ -60,7 +60,7 @@ After processing the data using Python and Excel, I built an **interactive dashb
 - **Total Investment by Fund Type:** AUM across Equity, Debt, Hybrid, etc.  
 - **SIP vs Lumpsum Summary Cards:** Monthly SIP trends and minimum lump sum amounts  
 - **Expense Ratio Comparison:** By Investment Strategy and Sub-Category  
-- 📈 **3-Year Returns (Donut Chart):** Category-wise long-term returns  
+- **3-Year Returns (Donut Chart):** Category-wise long-term returns  
 - 🏆 **Top Performing AMCs:** Average return and AUM  
 - 👤 **Fund Manager AUM Comparison:** Largest fund managers by assets  
 - 🧠 **Insight Cards:** Auto-generated insights with simple explanations
