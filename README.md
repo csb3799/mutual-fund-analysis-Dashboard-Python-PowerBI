@@ -63,7 +63,7 @@ After processing the data using Python and Excel, I built an **interactive dashb
 - **3-Year Returns (Donut Chart):** Category-wise long-term returns  
 - **Top Performing AMCs:** Average return and AUM  
 - **Fund Manager AUM Comparison:** Largest fund managers by assets  
-- 🧠 **Insight Cards:** Auto-generated insights with simple explanations
+- **Insight Cards:** Auto-generated insights with simple explanations
 
 ---
 
