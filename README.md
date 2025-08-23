@@ -67,7 +67,7 @@ After processing the data using Python and Excel, I built an **interactive dashb
 
 ---
 
-## 🔍 Mutual Fund Investment Insights
+## Mutual Fund Investment Insights
 
 | Insight Category | Summary |
 |------------------|---------|
