@@ -72,7 +72,7 @@ After processing the data using Python and Excel, I built an **interactive dashb
 | Insight Category | Summary |
 |------------------|---------|
 | **Investment Trends** | Equity Funds lead with ₹1.35M Cr total size |
-| 👤 **Fund Manager** | Vivek Sharma manages highest AUM: ₹7.3M Cr |
+| **Fund Manager** | Vivek Sharma manages highest AUM: ₹7.3M Cr |
 | 📉 **Cost vs Return** | Index Funds have lowest expense ratio: 0.26% |
 | 🏦 **Best Return (1Y)** | Bank of India Mutual Fund: 14.4% |
 | 🔄 **SIP vs Lumpsum** | Avg. SIP: ₹528.50/month, Lumpsum Min: ₹3.05K |
