@@ -73,26 +73,26 @@ After processing the data using Python and Excel, I built an **interactive dashb
 |------------------|---------|
 | **Investment Trends** | Equity Funds lead with ₹1.35M Cr total size |
 | **Fund Manager** | Vivek Sharma manages highest AUM: ₹7.3M Cr |
-| 📉 **Cost vs Return** | Index Funds have lowest expense ratio: 0.26% |
-| 🏦 **Best Return (1Y)** | Bank of India Mutual Fund: 14.4% |
-| 🔄 **SIP vs Lumpsum** | Avg. SIP: ₹528.50/month, Lumpsum Min: ₹3.05K |
-| ⏳ **3-Year Returns** | Equity Funds: 37.84%, Hybrid: 14.25% |
+| **Cost vs Return** | Index Funds have lowest expense ratio: 0.26% |
+| **Best Return (1Y)** | Bank of India Mutual Fund: 14.4% |
+| **SIP vs Lumpsum** | Avg. SIP: ₹528.50/month, Lumpsum Min: ₹3.05K |
+| **3-Year Returns** | Equity Funds: 37.84%, Hybrid: 14.25% |
 
 ---
 
-## 🖼️ Dashboard Preview
+## Dashboard Preview
 
 ![Mutual Fund Dashboard Preview](https://github.com/niravtrivedi23/Mutual-Fund-Analysis/blob/main/Mutual%20Fund%20Dashboard%20.png)
 
 ---
 
-### 🧠 Final Conclusion – See the Power of Investment
+### Final Conclusion – See the Power of Investment
 
 Through this project and dashboard, you can clearly see the **power of investing in mutual funds** when guided by data-driven insights.
 
 By analyzing returns, expense ratios, risk levels, and fund manager performance, I’ve shown how even basic financial knowledge, supported by visual tools, can help improve financial decisions.
 
-💡 This dashboard isn't just about numbers—it's about empowering people to make **smarter, low-risk investments** and take control of their financial future.
+This dashboard isn't just about numbers—it's about empowering people to make **smarter, low-risk investments** and take control of their financial future.
 Early and informed mutual fund investment leads to **long-term wealth creation**.  
 By combining:
 - Python for filtering,
@@ -103,7 +103,7 @@ I created a tool that helps both beginners and experts make **data-driven, low-r
 
 ---
 
-## 🔧 Tool Summary
+## Tool Summary
 
 | Tool   | Purpose |
 |--------|---------|
@@ -113,7 +113,7 @@ I created a tool that helps both beginners and experts make **data-driven, low-r
 
 ---
 
-## 📁 Files in This Repository
+## Files in This Repository
 
 | File | Description |
 |------|-------------|
@@ -123,14 +123,4 @@ I created a tool that helps both beginners and experts make **data-driven, low-r
 
 ---
 
-✅ **Feel free to fork, explore, and contribute!**
 
-### 🙌 Feedback Welcome
-
-Thank you for exploring my Mutual Fund Analysis project!  
-I’m always open to suggestions, improvements, or collaboration ideas.
-
-📩 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/trivedi-nirav-a1760424b)  
-📧 Or drop an email: **niravtrivedi069@gmail.com**
-
-Your feedback helps me grow and build better data-driven solutions. Let’s connect and discuss ideas!
